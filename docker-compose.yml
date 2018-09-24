@@ -8,3 +8,4 @@ services:
     volumes:
      - "./jobs:/var/jenkins_home/jobs/"
      - "./m2deps:/var/jenkins_home/.m2/repository/"
+
